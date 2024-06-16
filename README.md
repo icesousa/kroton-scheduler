@@ -1,6 +1,6 @@
 # kroton-scheduler
 
-**Descrição do Projeto:**
+
 O Kroton Agenda é uma extensão para o Google Chrome desenvolvida para facilitar a vida acadêmica dos estudantes das faculdades Kroton. Com esta ferramenta, você pode criar compromissos no Google Agenda diretamente a partir das páginas de atividades da sua faculdade. Nunca mais perca um prazo ou esqueça uma atividade importante. Com apenas um clique, você pode adicionar a data e os detalhes da sua atividade acadêmica ao seu calendário, mantendo-se organizado e em dia com suas tarefas.
 
 **Recursos Principais:**
